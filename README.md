@@ -10,13 +10,16 @@
   - [Web Scraper]([link goes here])
   - [Virus Total Client]([link goes here])
   - [EXIF Data Extractor]([link goes here])
+    
 - <b>C</b>
   - [TCP Client / Server](https://github.com/Surf-Wax/TCP-Client-Server)
   - [CLI Game]([link goes here])
+    
 - <b>x86-64 Assembly</b>
   - [Telnet Client/Server]([link goes here])
   - [SwapCase Function](https://github.com/Surf-Wax/SwapCase)
   - [Project 3]([link goes here])
+    
 - <b>Bash</b>
   - [IPtables Configurer]([link goes here]) 
 
