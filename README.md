@@ -3,7 +3,7 @@
 <h2>👨‍💻 Programming Projects:</h2>
 
 <b>Python</b>
-  - [TCP Client / Server]([link goes here])
+  - [TCP Client / Server](https://github.com/Surf-Wax/TCP-Client-Server-Python)
   - [Packet Sniffer / PCAP Analyzer]([link goes here])
   - [Natural Language Processing (NLP)]([link goes here])
   - [LSB Steganography (Store & Extract)]([link goes here])
