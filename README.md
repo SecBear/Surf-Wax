@@ -1,5 +1,7 @@
 <h1>Hi, I'm Bryce! <br/><a href="https://www.linkedin.com/in/brycethorpe/">Cybersecurity Student</a> & <a href="https://github.com/Surf-Wax">Security Engineer</a></h1> 
 
+<b> Note: This is a work in progress, projects are still in the process of being uploaded and linked.
+
 <h2>👨‍💻 Programming Projects:</h2>
 
 <b>Python</b>
