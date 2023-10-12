@@ -15,7 +15,7 @@
   - [CLI Game]([link goes here])
 - <b>x86-64 Assembly</b>
   - [Telnet Client/Server]([link goes here])
-  - [Project 2]([link goes here])
+  - [SwapCase Function](https://github.com/Surf-Wax/SwapCase)
   - [Project 3]([link goes here])
 - <b>Bash</b>
   - [IPtables Configurer]([link goes here]) 
