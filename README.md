@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Programming Projects:</h2>
 
-<b>Python:</b>
+<b>Python</b>
   - [TCP Client / Server]([link goes here])
   - [Packet Sniffer / PCAP Analyzer]([link goes here])
   - [Natural Language Processing (NLP)]([link goes here])
@@ -10,18 +10,19 @@
   - [Web Scraper]([link goes here])
   - [Virus Total Client]([link goes here])
   - [EXIF Data Extractor]([link goes here])
-    
-<b>C:</b>
+ 
+<b>C</b>
   - [TCP Client / Server](https://github.com/Surf-Wax/TCP-Client-Server)
   - [CLI Game]([link goes here])
-    
-<b>x86-64 Assembly:</b>
+
+<b>x86-64 Assembly</b>
   - [Telnet Client/Server]([link goes here])
   - [SwapCase Function](https://github.com/Surf-Wax/SwapCase)
   - [Project 3]([link goes here])
-    
-<b>Bash:</b>
-  - [IPtables Configurer]([link goes here]) 
+
+<b>Bash</b>
+  - [IPtables Configurer]([link goes here])
+
 
 <h2>🔐 Cybersecurity Projects:</h2>
 
