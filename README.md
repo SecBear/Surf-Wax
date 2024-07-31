@@ -20,11 +20,12 @@
 ---
 
 **Terraform & Nix**
-- [Remote Access Infastructure As Code (Twingate)](https://github.com/Surf-Wax/twingate-terraform)
+  - [Remote Access Infastructure As Code (Twingate)](https://github.com/Surf-Wax/twingate-terraform)
 
 ---
  
 **C (language)**
+  - [Unix-Based Simulated Operating System - USLOSS](https://github.com/Surf-Wax/usloss)
   - [TCP Client / Server](https://github.com/Surf-Wax/TCP-Client-Server)
   - [CLI Game]([link goes here])
 
