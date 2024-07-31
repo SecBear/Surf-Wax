@@ -27,7 +27,6 @@
 **C (language)**
   - [Unix-Based Simulated Operating System - USLOSS](https://github.com/Surf-Wax/usloss)
   - [TCP Client / Server](https://github.com/Surf-Wax/TCP-Client-Server)
-  - [CLI Game]([link goes here])
 
 ---
 
