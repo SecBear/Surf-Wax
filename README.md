@@ -1,10 +1,14 @@
-<h1>Hi, I'm Bryce! <br/><a href="https://www.linkedin.com/in/brycethorpe/">Cybersecurity Student</a> & <a href="https://github.com/Surf-Wax">Security Engineer</a></h1> 
+# Hi, I'm Bryce! <br/><a href="https://www.linkedin.com/in/brycethorpe/">Cybersecurity Student</a> & <a href="https://github.com/Surf-Wax">Security Engineer</a>
+
+# ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <b> Note: This is a work in progress, projects are still in the process of being uploaded and linked.
 
-<h2>👨‍💻 Programming Projects:</h2>
+### 👨‍💻 Programming Projects:
 
-<b>Python</b>
+---
+
+**Python**
   - [TCP Client / Server](https://github.com/Surf-Wax/TCP-Client-Server-Python)
   - [Packet Sniffer / PCAP Processor](https://github.com/Surf-Wax/Packet-Sniffer-PCAP-Analyzer-Python)
   - [Natural Language Processing (NLP)]([link goes here])
@@ -12,32 +16,32 @@
   - [Web Scraper]([link goes here])
   - [Virus Total Client]([link goes here])
   - [EXIF Data Extractor]([link goes here])
+    
+---
+
+**Terraform & Nix**
+- [Remote Access Infastructure As Code (Twingate)](https://github.com/Surf-Wax/twingate-terraform)
+
+---
  
-<b>C</b>
+**C (language)**
   - [TCP Client / Server](https://github.com/Surf-Wax/TCP-Client-Server)
   - [CLI Game]([link goes here])
+
+---
 
 <b>x86-64 Assembly</b>
   - [Telnet Client/Server]([link goes here])
   - [SwapCase Function](https://github.com/Surf-Wax/SwapCase)
   - [Project 3]([link goes here])
 
+---
+
 <b>Bash</b>
   - [IPtables Configurer]([link goes here])
 
+---
 
-<h2>🔐 Cybersecurity Projects:</h2>
-
-<h2>🚩 Capture The Flags (CTFs):</h2>
-
-<h2> 🤳 Connect with me on LinkedIn!</h2>
-
-<p>
-  <a href="https://www.linkedin.com/in/brycethorpe/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp;
-  </a>
-</p>
 
 
 <!--
