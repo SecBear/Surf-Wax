@@ -1,6 +1,6 @@
 # Hi, I'm Bryce! <br/><a href="https://www.linkedin.com/in/brycethorpe/">Cybersecurity Student</a> & <a href="https://github.com/Surf-Wax">Security Engineer</a>
 
-# ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+# [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brycethorpe)
 
 <b> Note: This is a work in progress, projects are still in the process of being uploaded and linked.
 
