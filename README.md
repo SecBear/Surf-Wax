@@ -19,7 +19,7 @@
     
 ---
 
-**Terraform & Nix**
+**Terraform & Nix (IaC)**
   - [Remote Access Infastructure As Code (Twingate)](https://github.com/Surf-Wax/twingate-terraform)
 
 ---
