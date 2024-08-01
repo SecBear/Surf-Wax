@@ -11,7 +11,7 @@
 **Python**
   - [TCP Client / Server](https://github.com/Surf-Wax/TCP-Client-Server-Python)
   - [Packet Sniffer / PCAP Processor](https://github.com/Surf-Wax/Packet-Sniffer-PCAP-Analyzer-Python)
-  - [Natural Language Processing (NLP)]([link goes here])
+  - [Natural Language Processing (NLP)](https://github.com/Surf-Wax/Natural-Language-Processing)
   - [LSB Steganography (Store & Extract)]([link goes here])
   - [Web Scraper]([link goes here])
   - [Virus Total Client]([link goes here])
