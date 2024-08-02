@@ -8,7 +8,7 @@
 
 ---
 
-**Python**
+### Python
   - [TCP Client / Server](https://github.com/Surf-Wax/TCP-Client-Server-Python)
   - [Packet Sniffer / PCAP Processor](https://github.com/Surf-Wax/Packet-Sniffer-PCAP-Analyzer-Python)
   - [Natural Language Processing (NLP)](https://github.com/Surf-Wax/Natural-Language-Processing)
@@ -19,25 +19,25 @@
     
 ---
 
-**Terraform & Nix (IaC)**
+### Terraform & Nix (IaC)
   - [Remote Access Infastructure As Code (Twingate)](https://github.com/Surf-Wax/twingate-terraform)
 
 ---
  
-**C (language)**
+### C (language)
   - [Unix-Based Simulated Operating System - USLOSS](https://github.com/Surf-Wax/usloss)
   - [TCP Client / Server](https://github.com/Surf-Wax/TCP-Client-Server)
 
 ---
 
-<b>x86-64 Assembly</b>
+### x86-64 Assembly
   - [Telnet Client/Server]([link goes here])
   - [SwapCase Function](https://github.com/Surf-Wax/SwapCase)
   - [Project 3]([link goes here])
 
 ---
 
-<b>Bash</b>
+### Bash
   - [IPtables Configurer]([link goes here])
 
 ---
