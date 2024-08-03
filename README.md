@@ -8,7 +8,7 @@
 
 ---
 
-### AI
+### AI / ML
   - [Natural Language Processing (NLP)](https://github.com/Surf-Wax/Natural-Language-Processing)
   - [Simple Bigram model for next word prediction](https://github.com/Surf-Wax/bigram-python)
 
