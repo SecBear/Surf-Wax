@@ -42,6 +42,11 @@
 
 ---
 
+### Other
+  - [HiDPI Wayland on NixOS] ()
+
+--- 
+
 
 
 <!--
