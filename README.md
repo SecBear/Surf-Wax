@@ -9,7 +9,7 @@
 ---
 
 ### AI
-  - [Simple Bigram model]()
+  - [Simple Bigram model](https://github.com/Surf-Wax/bigram-python)
   - [Natural Language Processing (NLP)](https://github.com/Surf-Wax/Natural-Language-Processing)
 
 --- 
