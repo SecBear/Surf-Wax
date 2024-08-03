@@ -9,8 +9,8 @@
 ---
 
 ### AI
-  - [Simple Bigram model](https://github.com/Surf-Wax/bigram-python)
   - [Natural Language Processing (NLP)](https://github.com/Surf-Wax/Natural-Language-Processing)
+  - - [Simple Bigram model for next word prediction](https://github.com/Surf-Wax/bigram-python)
 
 --- 
 
