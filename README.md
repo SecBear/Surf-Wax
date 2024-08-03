@@ -1,4 +1,4 @@
-# Hi, I'm Bryce! <br/><a href="https://www.linkedin.com/in/brycethorpe/">Cybersecurity Student</a> & <a href="https://github.com/Surf-Wax">Security Engineer</a>
+# Hi, I'm Bryce! <br/><a href="https://www.linkedin.com/in/brycethorpe/">Cybersecurity Student</a> & <a href="https://github.com/Surf-Wax">Security Engineer</a> <br/>with an interest in AI/ML
 
 # [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brycethorpe)
 
@@ -7,6 +7,12 @@
 ### 👨‍💻 Programming Projects:
 
 ---
+
+### AI
+  - [Simple Bigram model]()
+  - [Natural Language Processing (NLP)](https://github.com/Surf-Wax/Natural-Language-Processing)
+
+--- 
 
 ### Python
   - [TCP Client / Server](https://github.com/Surf-Wax/TCP-Client-Server-Python)
