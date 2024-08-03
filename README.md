@@ -43,7 +43,7 @@
 ---
 
 ### Other
-  - [HiDPI Wayland on NixOS] ()
+  - [HiDPI Wayland on NixOS] (https://github.com/Surf-Wax/nixos-wayland-hidpi)
 
 --- 
 
