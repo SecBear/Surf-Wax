@@ -1,4 +1,4 @@
-# Hi, I'm Bryce! <br/><a href="https://www.linkedin.com/in/brycethorpe/">Cloud Security Engineer</a> & <a href="https://github.com/Surf-Wax">Security Engineer</a> <br/>with an interest in AI/ML
+# Hi, I'm Bryce! <br/><a href="https://www.linkedin.com/in/brycethorpe/">Cloud Security Engineer</a> <br/>with an interest in AI/ML
 
 # [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brycethorpe)
 
