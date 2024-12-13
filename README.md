@@ -4,9 +4,9 @@
 
 <b> Note: This is a work in progress, projects are still in the process of being uploaded and linked.
 
-### 👨‍💻 Programming Projects:
+## 👨‍💻 Programming Projects:
 
----
+
 
 ### AI / ML
   - [Natural Language Processing (NLP)](https://github.com/Surf-Wax/Natural-Language-Processing)
